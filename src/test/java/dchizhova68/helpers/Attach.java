@@ -1,4 +1,4 @@
-package helpers;
+package dchizhova68.helpers;
 
 import com.codeborne.selenide.Selenide;
 import io.qameta.allure.Attachment;
